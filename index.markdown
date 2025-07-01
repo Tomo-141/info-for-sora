@@ -1,6 +1,28 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: ソラさんとの情報共有サイト
 ---
+
+# ソラさんとの情報共有サイトへようこそ
+
+このサイトは、Lunatisプロジェクトに関するソラAIのための情報共有プラットフォームです。
+プロジェクトの進捗、システム詳細、スクリプト情報などを提供します。
+
+## 主要コンテンツ
+
+* [Lunatisプロジェクト概要と全体アーキテクチャ](/info-for-sora/sora-info/)
+    * プロジェクトの目標、システム構成、モジュール間の連携フローなどを記載しています。
+
+## 最近の更新 (Jekyllの自動リスト機能を利用)
+
+Jekyllでは、`_posts` フォルダにMarkdownファイルを置くことで、ここに自動的に記事一覧が表示されるよう設定できます。
+今後のプロジェクト進捗や個別のスクリプト更新などは、こちらに記事として追加していくと良いでしょう。
+
+<p class="feed-subscribe">
+  <a href="{{ site.feed.path | default:'/feed.xml' }}" class="btn btn-outline">
+    <svg class="svg-icon" viewBox="0 0 24 24">
+      <path d="M19.92 4.08C15.72 2.29 10.45 2.11 6.55 3.99C5.39 4.54 4.1 5.09 2.76 5.51L2.09 5.72V19.34L2.76 19.55C4.1 19.97 5.39 20.52 6.55 21.07C10.45 22.95 15.72 22.77 19.92 20.98C21.48 20.31 22.99 19.53 24 18.59V6.41C22.99 5.47 21.48 4.69 19.92 4.08ZM18 17.5V15.5H16V17.5H18ZM18 13.5V11.5H16V13.5H18ZM18 9.5V7.5H16V9.5H18Z" />
+    </svg>
+    <span>RSS Feed</span>
+  </a>
+</p>
