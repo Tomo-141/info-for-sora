@@ -1,0 +1,81 @@
+/* assets/css/style.css */
+
+/* 基本的なフォントと余白の設定 */
+body {
+    font-family: "ＭＳ ゴシック", Arial, sans-serif; /* シンプルなフォントを指定 */
+    line-height: 1.6; /* 行の高さ */
+    margin: 0; /* body要素のデフォルトマージンを削除 */
+    padding: 20px; /* 全体のパディング */
+    background-color: #f4f4f4; /* 背景色 */
+    color: #333; /* 文字色 */
+}
+
+/* ヘッダーのスタイル */
+header {
+    background-color: #333; /* 背景色 */
+    color: #fff; /* 文字色 */
+    padding: 1rem 0; /* 上下のパディング */
+    text-align: center; /* テキストを中央寄せ */
+    border-radius: 5px; /* 角を少し丸くする */
+}
+
+/* ナビゲーションリンクのスタイル */
+nav a {
+    color: #fff; /* 文字色 */
+    text-decoration: none; /* 下線を削除 */
+    padding: 0 15px; /* 左右のパディング */
+    display: inline-block; /* インラインブロック要素にする */
+}
+
+nav a:hover {
+    text-decoration: underline; /* ホバー時に下線を表示 */
+}
+
+/* メインコンテンツエリアのスタイル */
+main {
+    padding: 20px 0; /* 上下のパディング */
+    max-width: 800px; /* 最大幅を設定 */
+    margin: 20px auto; /* 中央寄せ */
+    background-color: #fff; /* 背景色 */
+    border-radius: 5px; /* 角を丸くする */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* 軽い影 */
+}
+
+/* ページコンテンツ（index.markdownの内容）のスタイル */
+.page-content {
+    padding: 20px; /* コンテンツ内のパディング */
+}
+
+/* フッターのスタイル */
+footer {
+    text-align: center; /* テキストを中央寄せ */
+    padding: 20px 0; /* 上下のパディング */
+    color: #777; /* 文字色 */
+    font-size: 0.9em; /* フォントサイズを少し小さく */
+}
+
+/* 見出しのスタイル */
+h1, h2, h3, h4, h5, h6 {
+    color: #0056b3; /* 見出しの色 */
+    margin-top: 1.5em; /* 上部のマージン */
+}
+
+/* リストのスタイル */
+ul {
+    list-style-type: disc; /* リストのマーカーを黒丸にする */
+    margin-left: 20px; /* 左マージン */
+}
+
+ul li {
+    margin-bottom: 5px; /* リスト項目の下部マージン */
+}
+
+/* リンクのスタイル */
+a {
+    color: #007bff; /* リンクの色 */
+    text-decoration: none; /* デフォルトの下線を削除 */
+}
+
+a:hover {
+    text-decoration: underline; /* ホバー時に下線を表示 */
+}
