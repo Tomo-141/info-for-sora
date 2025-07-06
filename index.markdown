@@ -9,3 +9,4 @@ layout: home
 * [各種規約](/info-for-sora/-main-/1_start/rules/)
 * [作業目標（未作成）](/info-for-sora/-main-/1_start/goal/)
 * [マークダウン記法](/info-for-sora/-main-/info for tomo/mkd_lists/)
+
