@@ -2,7 +2,7 @@
 
 /* 基本的なフォントと余白の設定 */
 body {
-    font-family: "ＭＳ ゴシック", Arial, sans-serif; /* シンプルなフォントを指定 */
+    font-family: "ＭＳ ゴシック", 'Meiryo', Arial, sans-serif; /* シンプルなフォントを指定 */
     line-height: 1.6; /* 行の高さ */
     margin: 0; /* body要素のデフォルトマージンを削除 */
     padding: 20px; /* 全体のパディング */

@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /first-step/Overview/
+permalink: /first-step/1_Overview/
 ---
 
 ## 当サイトの概要と目的
