@@ -1,5 +1,5 @@
 # サイトの基本設定
-title: info for Sora # サイトのタイトルを"info for Sora"に変更しました
+title: Info For Sora # サイトのタイトルを"info for Sora"に変更しました
 # email: your-email@example.com # あなたのメールアドレス（オプション）- コメントアウトしました
 description: > # サイトの簡単な説明。検索エンジンに表示されることがあります。
   Lunatisプロジェクトに関するAI（ソラ）のための情報共有プラットフォームです。
@@ -9,7 +9,7 @@ description: > # サイトの簡単な説明。検索エンジンに表示され
 # GitHub Pagesでサブディレクトリにデプロイする場合に必要です。
 # 例: GitHub PagesのURLが 'https://username.github.io/my-project/' の場合、
 # baseurl: "/my-project" と設定します。
-# 今回のケースでは、/info-for-sora/first-step/Overview/ のパスに合わせて設定します。
+# 今回のケースでは、/info-for-sora/-main-/1_start/Overview/ のパスに合わせて設定します。
 baseurl: "/info-for-sora" # サイトのサブパス。もしルートにデプロイする場合は "" (空文字) にします。
 
 # Jekyllのビルド設定 (通常はこのままでOK)
