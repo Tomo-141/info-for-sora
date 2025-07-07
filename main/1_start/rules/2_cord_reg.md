@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /-main-/1_start/rules/2_cord_reg/
+permalink: /main/1_start/rules/2_cord_reg/
 ---
 
 ## コーディング規約

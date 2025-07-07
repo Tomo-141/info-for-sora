@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /-main-/1_start/rules/1_wk_reg/
+permalink: /main/1_start/rules/1_wk_reg/
 ---
 
 ## 作業規約
