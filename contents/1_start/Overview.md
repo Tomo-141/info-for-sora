@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /contents/1_start/Overview/
+permalink: /contents/1_start/overview/
 ---
 
 ## 当サイトの概要と目的
